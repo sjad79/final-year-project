@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Project Name
@@ -48,3 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Group 1 Final Year Project
 
 [Back To The Top](#Project Name)
+=======
+# final-year-project
+This is my final year project, its a floral shop with an admin and customer side
+>>>>>>> a2dfb383ab5142680077023604c06cc5b114b713
